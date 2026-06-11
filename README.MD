@@ -1,5 +1,4 @@
-一行嵌入的 AI 虛擬人 — 當 PEACELOVE 雙核心長在右下角
-用 stop-slop 規則重寫,展示 P.L. CORE × P.L. HUES 如何在同一支開源元件裡同時落地。
+https://www.peacelove.ai
 
 這個元件在做什麼
 一段 <script> 嵌進任何網站,右下角會坐一個 Live2D 虛擬人。訪客開口講話,她聽、回答、開口回,嘴型跟著音量動。
